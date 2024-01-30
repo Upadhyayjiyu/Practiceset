@@ -1,3 +1,5 @@
 # Practiceset
 This is my first repository 
-Author: jyoti Upadhyay 
+<br>
+Author: <h1>jyoti Upadhyay</h1>
+
